@@ -1,0 +1,147 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+.pyre/
+.pytype/
+coverage.xml
+coverage-final.xml
+nosetests.xml
+test.xml
+testreports/
+*.cover
+*.py,cover
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+# For a library or package, you might want to ignore these files since they are
+# only for local development.
+.python-version
+.venv
+env/
+venv/
+ENV/
+
+# Virtual Environment
+# Always ignore venv unless you have a good reason to commit it
+venv/
+env/
+ENV/
+.venv/
+virtualenv/
+.flaskenv
+.env
+.dockerenv
+
+# IDE - PyCharm
+# JetBrains specific
+.idea/
+
+# Project files (generated)
+.idea/*.iml
+.idea/*.ipr
+.idea/*.iws
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries/
+.idea/assetWizardSettings.xml
+
+# Gradle
+.idea/gradle.xml
+.idea/libraries/
+
+# Sensitive or user-specific stuff
+.idea/shelf/
+.idea/inspectionProfiles/
+.idea/caches/
+.idea/update_settings.xml
+.idea/.name
+
+# Plugin-specific files
+# Python
+.idea/python_packages/
+.idea/inspectionProfiles/profiles_settings.xml
+
+# VS Code
+.vscode/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
